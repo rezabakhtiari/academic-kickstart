@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Reza Bakhtiari
+title: Dr. Reza Bakhtiari
 
 # Username (this should match the folder name)
 authors:
