@@ -70,5 +70,5 @@ user_groups:
 - Visitors
 ---
 
-I am a senior data scientist at [A1 Digital (Munich)](www.a1.digital), which is a subsidiary of [www.a1.group](A1 Telekom Austria).
+I am a senior data scientist at A1 Digital (Munich), which is a subsidiary of [www.a1.group](A1 Telekom Austria).
 
