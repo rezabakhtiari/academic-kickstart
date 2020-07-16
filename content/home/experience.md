@@ -20,7 +20,7 @@ date_format = "Jan 2006"
 [[experience]]
   title = "Senior Data Scientist & ML Consultant"
   company = "A1 Digital"
-  company_url = "www.a1.digital"
+  company_url = ""
   location = "Munich"
   date_start = "2018"
   date_end = ""
