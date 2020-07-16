@@ -22,13 +22,13 @@ organizations:
 
 interests:
 - Artificial Intelligence
-- Machine Learning 6 Deep Learning
+- Machine & Deep Learning
 - Computational Science
 
 education:
   courses:
   - course: PhD in Quantum Physics
-    institution: SNS di Pisa
+    institution: Scuola Normale Superiore di Pisa, Italy
     year: 2006
   # - course: MEng in Artificial Intelligence
    # institution: Massachusetts Institute of Technology
