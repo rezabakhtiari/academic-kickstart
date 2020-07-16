@@ -1,4 +1,4 @@
-
+---
 # Display name
 title: Reza Bakhtiari
 
@@ -68,5 +68,6 @@ email: ""
 user_groups:
 - Researchers
 - Visitors
+---
 
 I am a senior data scientist and Ml consultant in Munich.
