@@ -28,7 +28,7 @@ interests:
 education:
   courses:
   - course: PhD in Quantum Physics
-    institution: Scuola Normale Superiore di Pisa, Italy
+    institution: **Scuola Normale Superiore di Pisa, Italy**
     year: 2006
   # - course: MEng in Artificial Intelligence
    # institution: Massachusetts Institute of Technology
@@ -70,5 +70,5 @@ user_groups:
 - Visitors
 ---
 
-I am a senior data scientist in Munich
+I am a senior data scientist at [A1 Digital (Munich)](www.a1.digital), which is a subsidiary of [www.a1.group](A1 Telekom Austria).
 
